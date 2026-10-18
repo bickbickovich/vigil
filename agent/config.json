@@ -1,15 +1,63 @@
 {
   "poll_interval_seconds": 5,
-  "browsers": ["Safari", "Google Chrome", "Arc", "Brave Browser", "Microsoft Edge", "Firefox"],
+  "browsers": [
+    "Safari",
+    "Google Chrome",
+    "Arc",
+    "Brave Browser",
+    "Microsoft Edge",
+    "Firefox"
+  ],
   "redirect_url_on_block": "https://news.ycombinator.com",
   "categories": {
     "productive": {
-      "apps": ["Notion", "Xcode", "Visual Studio Code", "Terminal", "Microsoft Word", "Pages", "Numbers", "Keynote", "Notes", "Calculator", "Preview", "TextEdit"],
-      "domains": ["github.com", "stackoverflow.com", "notion.so", "docs.google.com", "calendar.google.com", "wikipedia.org", "linear.app", "figma.com"]
+      "apps": [
+        "Calculator",
+        "Keynote",
+        "Microsoft Word",
+        "Notes",
+        "Notion",
+        "Numbers",
+        "Pages",
+        "Preview",
+        "Terminal",
+        "TextEdit",
+        "Visual Studio Code",
+        "Xcode"
+      ],
+      "domains": [
+        "calendar.google.com",
+        "docs.google.com",
+        "figma.com",
+        "github.com",
+        "linear.app",
+        "notion.so",
+        "stackoverflow.com",
+        "wikipedia.org"
+      ]
     },
     "distracting": {
-      "apps": ["Discord", "Steam", "Twitch", "TV", "Music", "Messages"],
-      "domains": ["youtube.com", "twitch.tv", "tiktok.com", "instagram.com", "reddit.com", "twitter.com", "x.com", "netflix.com", "discord.com", "9gag.com", "facebook.com"]
+      "apps": [
+        "Discord",
+        "Messages",
+        "Music",
+        "Steam",
+        "TV",
+        "Twitch"
+      ],
+      "domains": [
+        "9gag.com",
+        "discord.com",
+        "facebook.com",
+        "instagram.com",
+        "netflix.com",
+        "reddit.com",
+        "tiktok.com",
+        "twitch.tv",
+        "twitter.com",
+        "x.com",
+        "youtube.com"
+      ]
     }
   },
   "early_unlock_cooldown_seconds": 300

@@ -13,6 +13,8 @@ touched), and gives you two ways to block yourself from distractions:
 Everything it does is visible on a local dashboard. Nothing is hidden, and
 nothing leaves your machine — there's no account, no server, no telemetry.
 
+![Vigil dashboard](assets/screenshot.jpg)
+
 ## Why
 
 Most blockers are either too strict (rigid schedules you fight against) or
