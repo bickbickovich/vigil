@@ -8,7 +8,7 @@
     "Microsoft Edge",
     "Firefox"
   ],
-  "redirect_url_on_block": "https://news.ycombinator.com",
+  "redirect_url_on_block": "https://www.nytimes.com",
   "categories": {
     "productive": {
       "apps": [
