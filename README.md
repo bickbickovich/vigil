@@ -1,5 +1,7 @@
 # Vigil
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A visible, local focus assistant for macOS. It watches which app or website
 is in front, classifies it as **productive**, **distracting**, or neutral
 (anything not explicitly categorized — never tracked prominently, never
